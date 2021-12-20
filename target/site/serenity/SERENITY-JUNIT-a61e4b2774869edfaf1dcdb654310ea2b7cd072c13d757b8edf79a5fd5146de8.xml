@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="HU-003 seleccionar departamento" skipped="0" tests="1" time="23.41" timestamp="2021-12-20 12:10:57"><testcase name="selecciono el departamento"><error message="Session ID is null. Using WebDriver after calling quit()?&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-OGAE194', ip: '192.168.31.152', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'&#10;Driver info: driver.version: RemoteWebDriver&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-OGAE194', ip: '192.168.31.152', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchSessionException">Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OGAE194', ip: '192.168.31.152', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: driver.version: RemoteWebDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OGAE194', ip: '192.168.31.152', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: driver.version: unknown</error><system-err>Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OGAE194', ip: '192.168.31.152', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: driver.version: RemoteWebDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-OGAE194', ip: '192.168.31.152', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: driver.version: unknown&#13;
+steps.HomeCenterCiudadSteps.BuscadorDepartamentoHomeCenter(HomeCenterCiudadSteps.java:17)&#13;
+stepsDefinitions.HomeCenterLocacionStepsDefinitions.seleccione(HomeCenterLocacionStepsDefinitions.java:16)&#13;
+✽.seleccione UHILLA(src/test/resources/features/HomeCenterLocacion.feature:15)&#13;
+</system-err></testcase></testsuite>
